@@ -1,5 +1,5 @@
 // pages/index.js
-import Crossword from '../components/Crossword';
+import Crossword from '../components/crossWord';
 
 export default function Home() {
   return (
