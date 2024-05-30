@@ -1,5 +1,8 @@
 // pages/index.js
-import Crossword from '../components/Crossword';
+
+import React from "react";
+import Crossword from "../components/Crossword";
+
 
 export default function Home() {
   return (
